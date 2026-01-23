@@ -180,5 +180,6 @@ MIT License
 
 ## Author
 
-**Masamichi Iizumi**  
+**Masamichi Iizumi**
+**Tamaki Iizumi** 
 Miosync, Inc., Tokyo, Japan
