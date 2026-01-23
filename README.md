@@ -36,8 +36,8 @@ This yields a sharp, **falsifiable target** for ongoing and upcoming long-baseli
 ```
 Pmns_geometric/
 ├── README.md
-├── pmns_delta_lattice_pubgrade.py    # Main analysis script
-├── pmns_delta_lattice_pubgrade.py    # Main analysis script
+├── pmns_delta_lattice_pubgrade.py    # Main analysis script 
+├── pmns_result_analytics.py          # Result CSV analysis script
 ├── pmns_nufit_curves/                # NuFIT v5.2 1D Δχ² profiles
 │   ├── README.md
 │   ├── s12sq.csv
